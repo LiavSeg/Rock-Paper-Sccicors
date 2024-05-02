@@ -29,3 +29,4 @@ The game was developed during an on going Javascript course (self studied).
 ![Screenshot 2024-05-02 152148](https://github.com/LiavSeg/Rock-Paper-Sccicors/assets/74455048/5d6f1f9a-703a-428b-a370-5ac950e791c2)
 ![Screenshot 2024-05-02 152212](https://github.com/LiavSeg/Rock-Paper-Sccicors/assets/74455048/62af39b7-c821-48a6-9afb-d35caaec96d4)
 ![Screenshot 2024-05-02 152311](https://github.com/LiavSeg/Rock-Paper-Sccicors/assets/74455048/34a38ca1-3cd3-44fd-9b80-f4c5eb7342e1)
+![Screenshot 2024-05-02 152248](https://github.com/LiavSeg/Rock-Paper-Sccicors/assets/74455048/e89b66dc-f6d1-4020-84b3-615026b9e040)
