@@ -26,3 +26,7 @@ This is a simple Rock Paper Scissors game implemented in HTML, CSS, and JavaScri
 
 The game was developed during an on going Javascript course (self studied).
 
+![Screenshot 2024-05-02 152107](https://github.com/LiavSeg/Rock-Paper-Sccicors/assets/74455048/5462acda-b1c7-4e3f-b2c0-9985e7eedb7d)
+![Screenshot 2024-05-02 152148](https://github.com/LiavSeg/Rock-Paper-Sccicors/assets/74455048/5d6f1f9a-703a-428b-a370-5ac950e791c2)
+![Screenshot 2024-05-02 152212](https://github.com/LiavSeg/Rock-Paper-Sccicors/assets/74455048/62af39b7-c821-48a6-9afb-d35caaec96d4)
+![Screenshot 2024-05-02 152311](https://github.com/LiavSeg/Rock-Paper-Sccicors/assets/74455048/34a38ca1-3cd3-44fd-9b80-f4c5eb7342e1)
